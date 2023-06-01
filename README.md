@@ -27,3 +27,5 @@
 MY Blog : https://ljhyunstory.tistory.com/234?category=1265016
 <br>
 Youtube : https://www.youtube.com/watch?v=XbapHmiV3dM
+
+논문 : http://journal.dcs.or.kr/_common/do.php?a=current&b=11&bidx=3245&aidx=36156
