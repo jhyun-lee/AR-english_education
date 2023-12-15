@@ -1,7 +1,9 @@
-# AR_project-english_edu-
-***
-2022_9~12 동안 진행한
-### 유니티와 뷰포리아를 이용한 영어 교육용 프로그램(프로토타입) 입니다!
+# AR-english_edu
+
+2022_9~12 동안 진행한 프로젝트로  
+#유니티와 뷰포리아를 이용한 영어 교육용 프로그램(프로토타입) 입니다!
+ 
+
 
 ## main
 ![img1 daumcdn](https://user-images.githubusercontent.com/100923108/208343027-6664856e-899d-4541-bc50-3d1050c0709e.png)
